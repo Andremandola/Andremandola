@@ -4,6 +4,7 @@
 
 ![André Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=andremandola&show_icons=true&theme=dracula)
 
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
